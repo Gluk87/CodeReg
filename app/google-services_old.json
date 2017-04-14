@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "231646256786",
+    "firebase_url": "https://codreg-b904d.firebaseio.com",
+    "project_id": "codreg-b904d",
+    "storage_bucket": "codreg-b904d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231646256786:android:3a0da2a23aa5934a",
+        "android_client_info": {
+          "package_name": "forlife.codreg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231646256786-8p9ptrreqdmpd3g4njlg7ef935ok4pli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
